@@ -1,4 +1,7 @@
 # General
+
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 Some useful scripts simplifying bureaucracy, especially when living in Munich, Germany.
 
 # termin.py
